@@ -90,3 +90,4 @@ let combinedArray = array1.concat(array2);
 // console.log("Array 1:", array1);
 // console.log("Array 2:", array2);
 // console.log("Combined Array:", combinedArray);
+
